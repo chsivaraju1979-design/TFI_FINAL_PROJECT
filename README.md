@@ -48,4 +48,4 @@ Add more features
 Deploy on cloud
 Integrate with banking systems
 Your Name: CHAKRAVARAM RITHIN KUMAR RAJU
-BTech Computer Science and Engineering KKR AND KSR INSTITUTE OF TECHNOLOGY
+BTech Computer Science and Engineering KKR AND KSR INSTITUTE OF SCIENCE AND TECHNOLOGY
