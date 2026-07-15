@@ -1,20 +1,51 @@
 # TFI_FINAL_PROJECT
 TFI_LOAN-ELIGIBILITY_PRDECTION_PROJECT
-# Loan Eligibility Prediction System (Classification ML Pipeline)
+Loan Eligibility Prediction
+Overview
+This project predicts whether a loan application is eligible using machine learning. It analyzes applicant details such as income, education, credit history, and loan amount to predict loan approval.
 
-An end-to-end Machine Learning classification project built to automate the loan approval process for financial institutions. Using historical customer data, the system predicts whether a loan applicant should be approved or rejected based on their financial and demographic profile.
+Features
+Data preprocessing
+Exploratory data analysis
+Machine learning model training
+Model evaluation
+Loan eligibility prediction
+Web application using Streamlit or Flask
+Technologies
+Python
+Pandas
+NumPy
+Scikit learn
+Matplotlib
+Seaborn
+Streamlit or Flask
+Dataset
+The dataset includes:
 
-## 🗂️ Project Repository Structure
-```text
-loan-eligibility-predictor/
-│
-├── data/
-│   └── loan_data.csv           # Raw dataset containing applicant records
-│
-├── output/
-│   ├── confusion_matrix.png    # Auto-generated model performance matrix
-│   └── roc_curve.png           # Auto-generated ROC-AUC visualization
-│
-├── loan_predictor.py           # Core ML script containing the full pipeline
-├── README.md                   # Project documentation and guide
-└── requirements.txt            # Python dependencies list
+Gender
+Married
+Dependents
+Education
+Self Employed
+Applicant Income
+Coapplicant Income
+Loan Amount
+Loan Amount Term
+Credit History
+Property Area
+Loan Status
+How to Run
+Install the required packages.
+Run the application.
+Enter applicant details.
+View the loan eligibility result.
+Result
+The model predicts whether a loan application is Approved or Not Approved based on the input data.
+
+Future Improvements
+Improve model accuracy
+Add more features
+Deploy on cloud
+Integrate with banking systems
+Your Name: CHAKRAVARAM RITHIN KUMAR RAJU
+BTech Computer Science and Engineering KKR AND KSR INSTITUTE OF TECHNOLOGY
